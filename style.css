@@ -1,0 +1,384 @@
+.navbar ul{
+    list-style-type: none;
+    background-color: darkcyan;
+    padding: 0%;
+    margin: 0px;
+    overflow: hidden;
+    position: relative;
+
+}
+
+.navbar li{
+    text-align: center;
+    list-style-type: none;
+    float: right;
+    
+}
+
+.navbar a{
+    color: azure;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    
+
+}
+
+.navbar a:hover{
+    background-color: black;
+    
+}
+
+header{
+    background-image: url(casual.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.btn{
+    background-image: url(OIP.jpg);
+    background-size: cover;
+    height: 60vh;
+    font-size: 50px;
+    float: left;
+}
+
+.btn:hover{
+    scale: 1.1;
+    filter: blur(-2.5px);
+    cursor: pointer;
+}
+
+.btn1{
+    background-image: url(download\ \(1\).jpg);
+    background-size: cover;
+    height: 60vh;
+    font-size: 90px;
+    color: beige;
+}
+
+.btn1:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.btn2{
+    background-image: url(OIP\ \(3\).jpg);
+    background-size: cover;
+    height: 60vh;
+    font-size: 50px;
+    color: beige;
+}
+    
+.btn2:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.press{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn3{
+    background-image: url(OIP\ \(1\).jpg);
+    background-size: cover;
+    height: 60vh;
+    font-size: 110px;
+    float: left;
+}
+
+.btn3:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.btn4{
+    background-image: url(download\ \(4\).jpg);
+    background-size: cover;
+    height: 60vh;
+    font-size: 63px;
+    color: darkcyan;
+}
+
+.btn4:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.btn5{
+    background-image: url(OIP\ \(2\).jpg);
+    background-size: cover;
+    height: 60vh;
+    font-size: 155px;
+    color: beige;
+}
+
+.btn5:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.press1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn6{
+    background-image: url(OIP\ \(4\).jpg);
+    background-size: cover;
+    height: 60vh;
+    font-size: 95px;
+    float: left;
+    color: rgb(96, 96, 16);
+}
+
+.press2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn6:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.btn7{
+    background-image: url(OIP\ \(6\).jpg);
+    background-size: cover;
+    height: 60vh;
+    font-size: 85px;
+    color: beige;
+}
+
+.btn7:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.btn8{
+    background-image: url(OIP\ \(7\).jpg);
+    background-size: cover;
+    height: 60vh;
+    font-size: 95px;
+    color: black;
+}
+
+.btn8:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.down ul{
+    padding: 0%;
+    margin: 0px;
+    overflow: hidden;
+    position: relative;
+    list-style-type: none;
+}
+
+.down li{
+    text-align: center;
+    list-style-type: none;
+    
+}
+
+.down a{
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    color: azure;
+}
+
+.footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.logo{
+    margin-top: 30px;
+}
+
+.statement{
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+    
+}
+.statement>img{
+    padding: 10px;
+}
+
+.img{
+    height: 5vh;
+    display: block;
+    justify-content: space-around;
+    
+}
+
+.btn9{
+    background-image: url(3-3.webp);
+    background-size: cover;
+    height: 60vh;
+    font-size: 40px;
+    float: left;
+    
+}
+.btn9:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.btn10{
+    background-image: url(download\ \(5\).jpg);
+    background-size: cover;
+    height: 60vh;
+    font-size: 70px;
+}
+
+.btn10:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.btn11{
+    background-image: url(OIP\ \(9\).jpg);
+    background-size: cover;
+    height: 60vh;
+    font-size: 70px;
+}
+
+.btn11:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.press3{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn12{
+    background-image: url(th.jpg);
+    background-size: cover;
+    height: 60vh;
+    font-size: 53px;
+}
+
+.btn12:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.btn13{
+    background-image: url(7-1.webp);
+    background-size: cover;
+    height: 60vh;
+    font-size: 115px;
+}
+
+.bnt13:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.btn14{
+    background-image: url(download\ \(6\).jpg);
+    background-size: cover;
+    height: 60vh;
+    font-size: 200px;
+}
+
+.btn14:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
+.press4{
+    display: flex;
+    justify-content: space-around;
+}
+
+.name{
+    position: relative;
+}
+
+.input{
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+    box-sizing: border-box;
+    outline: none;
+    border: 1px solid #04AA6D;
+}
+
+.email{
+    position: relative;
+}
+
+.input1{
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+    box-sizing: border-box;
+    outline: none;
+    border: 1px solid #04AA6D;
+}
+
+.phone{
+    position: relative;
+}
+
+.input2{
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+    box-sizing: border-box;
+    outline: none;
+    border: 1px solid #04AA6D;
+}
+
+.subject{
+    position: relative;
+}
+
+.input3{
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+    box-sizing: border-box;
+    outline: none;
+    border: 1px solid #04AA6D;
+}
+
+.message{
+    position: relative;
+}
+
+.input4{
+    padding: 10px;
+    width: 100%;
+    max-width: 400px;
+    box-sizing: border-box;
+    outline: none;
+    border: 1px solid #04AA6D;
+    height: 100px;
+}
+
+.map{
+    height: 500px;
+    max-width: 2000px;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar a.active{
+    background-color: antiquewhite;
+    color: chocolate;
+}
